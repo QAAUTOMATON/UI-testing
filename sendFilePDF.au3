@@ -1,0 +1,7 @@
+ControlFocus("Open","","Edit1")
+Sleep(1000)
+ControlSetText("Open","","Edit1","C:\Users\kz\OneDrive\Desktop\Automation\drive_backup\sampleupload files\ThePremonition.pdf")
+Sleep(1000)
+ControlFocus("Open","","Button1")
+Sleep(1000)
+ControlClick("Open","","Button1")
